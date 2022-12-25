@@ -1,0 +1,17 @@
+#root{
+    min-height: 100vh;
+    background-color: #001219;
+    color: white;
+}
+
+::-webkit-scrollbar{
+    height: 5px;
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #005f73;
+}
+
+option{
+    color: black;
+}
